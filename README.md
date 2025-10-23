@@ -15,6 +15,7 @@ This project analyzes Linux authentication logs to detect suspicious login attem
 **Project Structure**
 
 log-analysis-threat-detection/
+
 1. data/sample_logs.log     # Sample log file to analyze
 
 2.scripts/analyze_logs.py     # Python script for analysis
@@ -30,7 +31,7 @@ log-analysis-threat-detection/
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/log-analysis-threat-detection.git
+git clone https://github.com/sahanarao35/log-analysis-threat-detection.git
 
 Navigate to the scripts folder:
 
